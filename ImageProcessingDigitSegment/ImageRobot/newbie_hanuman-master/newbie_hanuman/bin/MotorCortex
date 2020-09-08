@@ -1,0 +1,6 @@
+#! /usr/bin/env python
+
+import spinalCord.MotorCortex 
+
+if __name__ == "__main__":
+	spinalCord.MotorCortex.main()

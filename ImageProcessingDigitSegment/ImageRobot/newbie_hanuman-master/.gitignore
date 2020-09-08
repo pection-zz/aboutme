@@ -1,0 +1,11 @@
+talker1/
+newbie_hanuman/extSrc/extractFeature/wekaData/
+#
+*.pyc
+*.png
+*.npz
+*.zip
+*.jpg
+*.csv
+*.csv*
+*.arff

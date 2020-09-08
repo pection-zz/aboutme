@@ -1,0 +1,2620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>906</width>
+    <height>697</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="verticalLayoutWidget_7">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>490</y>
+     <width>441</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_7">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_26">
+      <item>
+       <widget class="QPushButton" name="setLArmAll_pushButton">
+        <property name="text">
+         <string>Set L Arm All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="getLArmAll_pushButton">
+        <property name="text">
+         <string>Get L Arm All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="disTLArmAll_pushButton">
+        <property name="text">
+         <string>DisT L Arm All</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_20">
+      <item>
+       <widget class="QLabel" name="ID21_label">
+        <property name="text">
+         <string>ID21</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType21_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor21center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor21Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor21value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor21Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor21Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor21DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_21">
+      <item>
+       <widget class="QLabel" name="ID22_label">
+        <property name="text">
+         <string>ID22</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType22_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor22center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor22Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor22value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor22Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor22Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor22DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_19">
+      <item>
+       <widget class="QLabel" name="ID23_label">
+        <property name="text">
+         <string>ID23</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType23_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor23center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor23Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor23value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor23Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor23Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor23DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_27">
+      <item>
+       <widget class="QLabel" name="ID24_label">
+        <property name="text">
+         <string>ID24</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType24_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor24center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor24Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor24value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor24Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor24Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor24DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>190</y>
+     <width>441</width>
+     <height>291</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_6">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_25">
+      <item>
+       <widget class="QPushButton" name="setRAll_pushButton">
+        <property name="text">
+         <string>Set R All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="getRAll_pushButton">
+        <property name="text">
+         <string>Get R All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="disTRAll_pushButton">
+        <property name="text">
+         <string>DisT R All</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_12">
+      <item>
+       <widget class="QLabel" name="ID11_label">
+        <property name="text">
+         <string>ID11</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType11_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor11center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor11Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor11value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor11Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor11Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor11DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_13">
+      <item>
+       <widget class="QLabel" name="ID12_label">
+        <property name="text">
+         <string>ID12</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType12_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor12center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor12Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor12value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor12Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor12Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor12DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_14">
+      <item>
+       <widget class="QLabel" name="ID13_label">
+        <property name="text">
+         <string>ID13</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType13_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor13center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor13Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor13value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor13Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor13Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor13DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_15">
+      <item>
+       <widget class="QLabel" name="ID14_label">
+        <property name="text">
+         <string>ID14</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType14_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor14center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor14Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor14value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor14Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor14Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor14DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_16">
+      <item>
+       <widget class="QLabel" name="ID15_label">
+        <property name="text">
+         <string>ID15</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType15_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor15center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor15Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor15value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor15Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor15Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor15DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_17">
+      <item>
+       <widget class="QLabel" name="ID7_label_">
+        <property name="text">
+         <string>ID16</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType16_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor16center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor16Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor16value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor16Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor16Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor16DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>190</y>
+     <width>441</width>
+     <height>291</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_5">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_22">
+      <item>
+       <widget class="QPushButton" name="setLAll_pushButton">
+        <property name="text">
+         <string>Set L All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="getLAll_pushButton">
+        <property name="text">
+         <string>Get L All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="disTLAll_pushButton">
+        <property name="text">
+         <string>DisT L All</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_4">
+      <item>
+       <widget class="QLabel" name="ID1_label">
+        <property name="text">
+         <string>ID1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType1_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor1center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor1Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor1value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor1Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor1Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor1DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_5">
+      <item>
+       <widget class="QLabel" name="ID2_label">
+        <property name="text">
+         <string>ID2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType2_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor2center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor2Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor2value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor2Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor2Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor2DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_6">
+      <item>
+       <widget class="QLabel" name="ID3_label">
+        <property name="text">
+         <string>ID3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType3_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor3center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor3Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor3value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor3Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor3Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor3DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_7">
+      <item>
+       <widget class="QLabel" name="ID4_label">
+        <property name="text">
+         <string>ID4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType4_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor4center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor4Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor4value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor4Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor4Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor4DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_8">
+      <item>
+       <widget class="QLabel" name="ID5_label">
+        <property name="text">
+         <string>ID5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType5_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor5center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor5Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor5value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor5Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor5Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor5DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_9">
+      <item>
+       <widget class="QLabel" name="ID6_label">
+        <property name="text">
+         <string>ID6</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType6_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor6center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor6Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor6value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor6Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor6Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor6DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>30</y>
+     <width>371</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QLabel" name="file_label">
+        <property name="text">
+         <string>File::</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="play_label">
+        <property name="text">
+         <string>Play</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_2">
+      <item>
+       <widget class="QLabel" name="fileName_label">
+        <property name="text">
+         <string>File Name</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="allKeyframe_label">
+        <property name="text">
+         <string>All Keyframe</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_3">
+      <item>
+       <widget class="QLabel" name="numOfKeyframe_label">
+        <property name="text">
+         <string>Number of Keyframe</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="setReady_Button">
+        <property name="text">
+         <string>Set Ready</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_4">
+      <item>
+       <widget class="QLabel" name="numOfKeyframeStatus_label">
+        <property name="text">
+         <string>0</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="playAll_Button">
+        <property name="text">
+         <string>Play All</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>80</y>
+     <width>371</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <widget class="QLabel" name="SelectedKeyframe_label">
+      <property name="text">
+       <string>Selected Keyframe</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QComboBox" name="keyFrame_comboBox"/>
+    </item>
+    <item>
+     <widget class="QCheckBox" name="activeKeyframe_checkBox">
+      <property name="enabled">
+       <bool>true</bool>
+      </property>
+      <property name="text">
+       <string>Active Keyframe</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="play_pushButton">
+      <property name="text">
+       <string>Play</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>140</y>
+     <width>422</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_3">
+    <item>
+     <widget class="QLabel" name="keyframeTime_label">
+      <property name="text">
+       <string>KF Time =</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QSpinBox" name="keyframeTime_spinBox"/>
+    </item>
+    <item>
+     <widget class="QPushButton" name="setTime_pushButton">
+      <property name="text">
+       <string>Set Time</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="setAll_pushButton">
+      <property name="text">
+       <string>Set All</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="getAll_pushButton">
+      <property name="text">
+       <string>Get All</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="disTAll_pushButton">
+      <property name="text">
+       <string>DisT All</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget_3">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>0</y>
+     <width>441</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_24">
+    <item>
+     <widget class="QComboBox" name="comport_comboBox"/>
+    </item>
+    <item>
+     <widget class="QComboBox" name="baudrate_comboBox"/>
+    </item>
+    <item>
+     <widget class="QLabel" name="connectionStatus_label">
+      <property name="text">
+       <string>connection Status</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="connect_Button">
+      <property name="text">
+       <string>Connect</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>0</y>
+     <width>387</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_23">
+    <item>
+     <widget class="QLabel" name="postureName_label">
+      <property name="text">
+       <string>Posture Name</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QComboBox" name="posture_comboBox"/>
+    </item>
+    <item>
+     <widget class="QPushButton" name="loadPosture_pushButton">
+      <property name="text">
+       <string>Load</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="savePosture_pushButton">
+      <property name="text">
+       <string>Save</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="saveCenter_pushButton">
+      <property name="text">
+       <string>Save Center</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>110</y>
+     <width>371</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_18">
+    <item>
+     <widget class="QPushButton" name="deleteKeyframe_pushButton">
+      <property name="text">
+       <string>Delete</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="duplicateKeyframe_pushButton">
+      <property name="text">
+       <string>Duplicate</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="previousSwitchKeyframe_pushButton">
+      <property name="text">
+       <string>Previous Switch</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="nextSwitchKeyframe_pushButton">
+      <property name="text">
+       <string>Next Switch</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget_8">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>490</y>
+     <width>441</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_8">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_28">
+      <item>
+       <widget class="QPushButton" name="setRArmAll_pushButton">
+        <property name="text">
+         <string>Set R Arm All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="getRArmAll_pushButton">
+        <property name="text">
+         <string>Get R Arm All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="disTRArmAll_pushButton">
+        <property name="text">
+         <string>DisT R Arm All</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_29">
+      <item>
+       <widget class="QLabel" name="ID31_label">
+        <property name="text">
+         <string>ID31</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType31_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor31center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor31Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor31value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor31Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor31Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor31DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_30">
+      <item>
+       <widget class="QLabel" name="ID32_label">
+        <property name="text">
+         <string>ID32</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType32_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor32center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor32Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor32value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor32Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor32Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor32DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_31">
+      <item>
+       <widget class="QLabel" name="ID33_label">
+        <property name="text">
+         <string>ID33</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType33_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor33center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor33Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor33value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor33Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor33Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor33DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_32">
+      <item>
+       <widget class="QLabel" name="ID34_label">
+        <property name="text">
+         <string>ID34</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType34_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor34center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor34Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor34value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor34Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor34Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor34DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget_9">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>30</y>
+     <width>441</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_9">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_33">
+      <item>
+       <widget class="QPushButton" name="setHAll_pushButton">
+        <property name="text">
+         <string>Set H All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="getHAll_pushButton">
+        <property name="text">
+         <string>Get H All</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="disTHAll_pushButton">
+        <property name="text">
+         <string>DisT H All</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_34">
+      <item>
+       <widget class="QLabel" name="ID41_label">
+        <property name="text">
+         <string>ID41</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType41_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor41center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor41Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor41value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor41Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor41Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor41DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_35">
+      <item>
+       <widget class="QLabel" name="ID42_label">
+        <property name="text">
+         <string>ID42</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType42_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor42center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor42Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor42value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor42Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor42Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor42DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_36">
+      <item>
+       <widget class="QLabel" name="ID43_label">
+        <property name="text">
+         <string>ID43</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motorType43_label">
+        <property name="text">
+         <string>MX</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="motor43center_label">
+        <property name="text">
+         <string>2048</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="motor43Value_spinBox">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDial" name="motor43value_dial">
+        <property name="maximum">
+         <number>4095</number>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor43Set_pushButton">
+        <property name="text">
+         <string>Set</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor43Get_pushButton">
+        <property name="text">
+         <string>Get</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="motor43DisT_pushButton">
+        <property name="text">
+         <string>DisT</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>horizontalLayoutWidget_3</zorder>
+  <zorder>horizontalLayoutWidget_2</zorder>
+  <zorder>horizontalLayoutWidget</zorder>
+  <zorder>verticalLayoutWidget_8</zorder>
+  <zorder>verticalLayoutWidget_9</zorder>
+  <zorder>verticalLayoutWidget_7</zorder>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>motor1value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor1Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>186</x>
+     <y>233</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>136</x>
+     <y>243</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor1Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor1value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>136</x>
+     <y>243</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>233</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor2value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor2Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>302</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>136</x>
+     <y>294</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor2Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor2value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>136</x>
+     <y>294</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>177</x>
+     <y>289</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor3value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor3Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>198</x>
+     <y>345</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>136</x>
+     <y>338</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor3Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor3value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>136</x>
+     <y>338</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>176</x>
+     <y>346</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor4value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor4Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>390</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>136</x>
+     <y>382</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor4Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor4value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>136</x>
+     <y>382</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>390</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor5value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor5Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>434</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>136</x>
+     <y>426</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor5Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor5value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>136</x>
+     <y>426</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>434</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor6value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor6Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>478</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>136</x>
+     <y>470</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor6Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor6value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>136</x>
+     <y>470</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>478</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor11value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor11Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>655</x>
+     <y>258</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>592</x>
+     <y>250</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor11Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor11value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>592</x>
+     <y>250</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>655</x>
+     <y>258</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor12value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor12Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>655</x>
+     <y>302</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>592</x>
+     <y>294</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor12Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor12value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>592</x>
+     <y>294</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>655</x>
+     <y>302</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor13value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor13Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>655</x>
+     <y>346</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>592</x>
+     <y>338</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor13Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor13value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>592</x>
+     <y>338</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>655</x>
+     <y>346</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor14value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor14Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>655</x>
+     <y>390</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>592</x>
+     <y>382</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor14Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor14value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>592</x>
+     <y>382</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>655</x>
+     <y>390</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor15value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor15Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>655</x>
+     <y>434</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>592</x>
+     <y>426</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor15Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor15value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>592</x>
+     <y>426</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>655</x>
+     <y>434</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor16value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor16Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>655</x>
+     <y>478</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>592</x>
+     <y>470</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor16Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor16value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>592</x>
+     <y>470</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>655</x>
+     <y>478</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor23value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor23Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>778</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>142</x>
+     <y>763</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor23Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor23value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>142</x>
+     <y>763</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>778</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor21value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor21Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>662</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>142</x>
+     <y>647</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor21Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor21value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>142</x>
+     <y>647</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>662</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor22value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor22Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>720</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>142</x>
+     <y>705</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor22Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor22value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>142</x>
+     <y>705</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>720</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor24value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor24Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>836</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>142</x>
+     <y>821</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor24Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor24value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>142</x>
+     <y>821</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>205</x>
+     <y>836</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor41Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor41value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>569</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>622</x>
+     <y>76</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor41value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor41Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>631</x>
+     <y>89</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>578</x>
+     <y>85</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor42Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor42value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>559</x>
+     <y>116</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>613</x>
+     <y>122</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor42value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor42Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>628</x>
+     <y>129</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>581</x>
+     <y>115</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor43Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor43value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>562</x>
+     <y>159</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>623</x>
+     <y>159</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor43value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor43Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>627</x>
+     <y>166</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>578</x>
+     <y>162</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor31Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor31value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>589</x>
+     <y>641</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>623</x>
+     <y>641</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor31value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor31Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>642</x>
+     <y>623</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>587</x>
+     <y>634</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor32Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor32value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>580</x>
+     <y>695</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>621</x>
+     <y>698</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor32value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor32Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>636</x>
+     <y>685</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>573</x>
+     <y>690</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor33Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor33value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>590</x>
+     <y>752</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>631</x>
+     <y>749</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor33value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor33Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>629</x>
+     <y>766</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>587</x>
+     <y>761</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor34Value_spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor34value_dial</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>582</x>
+     <y>806</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>624</x>
+     <y>816</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>motor34value_dial</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>motor34Value_spinBox</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>635</x>
+     <y>797</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>582</x>
+     <y>805</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

@@ -1,0 +1,60 @@
+
+ROM used:   858/33788 (3%)
+            858/33788 (3%) including unused fragments
+
+            0.2 Average locations per line
+            1.2 Average locations per statement
+
+RAM used:   144/8192 (2%) at main() level
+            144/8192 (2%) worst case
+
+Stack size: 128
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   73    40   6  pwm_pic.c
+  105     0   0  CONFIG_PIC24.H
+  862     0   0  ..\..\Program Files (x86)\PICC\devices\24FJ48GA002.H
+ 1351   524  74  ..\..\Program Files (x86)\PICC\drivers\stdlib.h
+   32     0   0  ..\..\Program Files (x86)\PICC\drivers\stddef.h
+  423     0   0  ..\..\Program Files (x86)\PICC\drivers\string.h
+   28     0   0  ..\..\Program Files (x86)\PICC\drivers\ctype.h
+   37     0   0  ..\..\Program Files (x86)\PICC\drivers\stdio.h
+  326   134  19  ..\..\Program Files (x86)\PICC\drivers\stdlibm.h
+   76    13   2  ..\..\Program Files (x86)\PICC\drivers\memmgmt.c
+  163     0   0  ..\..\Program Files (x86)\PICC\drivers\stdint.h
+   32     0   0  BL_support.h
+   37     0   0  CDATPIC24.H
+----- -----
+ 3545   711 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0    128   7    0   169  2.2  main
+0     90   5    3   722  3.9  HardwareInit
+0     34   2    0    29  1.2  Time1
+0     46   3    0   104  1.7  Duty_pwm1
+0     52   3    0   104  1.7  Duty_pwm2
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               5
+    Statements              711
+    Comments                1081
+    Volume (V)              1529
+    Difficulty (D)          11.3
+    Effort to implement (E) 17197
+    Time to implement (T)   16 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   1
+    Maintainability (MI)    25
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00BFE     0  3072  
+00C00-00C02     4  0  
+00C04-00DFA   504  0  
+00DFC-083FA   350  29858  
+
+
+

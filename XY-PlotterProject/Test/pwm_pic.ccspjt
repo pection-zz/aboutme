@@ -1,0 +1,16 @@
+[PROJECT]
+Target=pwm_pic.hex
+Processor_Text=PIC24FJ48GA002
+CCSVersion=5.015
+Compiler=PCD
+[Target Data]
+FileList=pwm_pic.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\devices\;C:\Program Files (x86)\PICC\drivers\
+[pwm_pic.c]
+Type=4
+[mru-list]
+1=pwm_pic.c
+[Units]
+Count=1
+1=pwm_pic (main)

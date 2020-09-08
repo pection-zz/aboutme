@@ -1,0 +1,6 @@
+#! /usr/bin/env python
+
+import spinalCord.HanumanController
+
+if __name__ == "__main__":
+	spinalCord.HanumanController.main()
