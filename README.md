@@ -16,8 +16,8 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
 
 ![alt text][IM_default]
-![alt text][IM_afterpola]
-![alt text][IM_afterpola2]
+
+![alt text][IM_afterpola]![alt text][IM_afterpola2]
 
 [IM_default]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png "Image Before polarization"
 [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
