@@ -8,9 +8,12 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 # Robotic Engineering Projects #
 
-## [Lendetection-FinalProject](https://github.com/pection/aboutme/tree/master/Lendetection-FinalProject) ##
-* this is highlight from my project
-* use python to machine learning to predict len look like a qc check for seller that is change this manufacturing to automation systems
+## [Lens Quality Checking using Machine Learning](https://github.com/pection/aboutme/tree/master/Lendetection-FinalProject) ##
+* Published by Bachelor of Engineering Program in Robotics Engineeing
+* This research project is about checking the quality of the lens with machine learning methods
+* The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99 
+* This method can be applied to \ncheck the quality of lens in manufacturing automation in the future
+Keywords : checking the quality of the lens / polarization / image processing / machine learning
 
 ## [Internship_JapanProjectandReference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
 * Find joint in Hand with thermal camera and Image processing 
