@@ -14,9 +14,11 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 * The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99 
 * This method can be applied to \ncheck the quality of lens in manufacturing automation in the future
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
+
+![alt text][IM_default]
 ![alt text][IM_afterpola]
 ![alt text][IM_afterpola2]
-
+[IM_default]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png "Image Before polarization"
 [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
 [IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg "Image After polarization Zoom"
 
