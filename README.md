@@ -8,32 +8,42 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 # Robotic Engineering Projects #
 
-## [Internship_JapanProjectandReference](https://github.com/pection/aboutme) ##
+## [Lendetection-FinalProject](https://github.com/pection/aboutme/tree/master/Lendetection-FinalProject) ##
+* this is highlight from my project
+* use python to machine learning to predict len look like a qc check for seller that is change this manufacturing to automation systems
+
+## [Internship_JapanProjectandReference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
 * Find joint in Hand with thermal camera and Image processing 
 
-## [XY_plotter](https://github.com/pection/aboutme) ##
+## [XY_plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
 
-## [Interactionforstudentandteacherfrompython](https://github.com/pection/aboutme) ##
+## [Interactionforstudentandteacherfrompython](https://github.com/pection/aboutme/tree/master/) ##
 * Create gui for teacher assistant to get interaction from student in class 
 
-## [HumanoidRobot](https://github.com/pection/aboutme) ##
-* Humanoid Robot for humanoid league 
+## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
+* Humanoid Robot for humanoid league in low-level
 
-## [AssignmentIntrotorobotic](https://github.com/pection/aboutme) ##
-* Matlab for simulate robotmodel 
+## [HumanoidCode](https://github.com/pection/aboutme/tree/master/Humanoid_Code) ##
+* Humanoid Robot for before upgrade to humanoid league in low-level
 
-## [lanedetection_python](https://github.com/pection/aboutme) ##
-* lane detection from python before upgrade to matlab code 
+## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
+* Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
 
-## [ParameterEstimation_Matlab](https://github.com/pection/aboutme) ##
-* Learning How to use Parameter Estimation in Matlab
+## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
+* Use lane detection with matlab programing to compute lane detection in Rasberrypi 
 
-## [AMAS_lanedetection](https://github.com/pection/aboutme) ##
-* Use matlab for lanedetection in AMAS  
+## [MatlabinRobotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
+* Learning How to use Matlab apply in Robotic
 
-## [createresume](https://github.com/pection/aboutme) ##
+## [SimulateRobotpickingGripper](https://github.com/pection/aboutme/tree/master/SimulateRobotpickingGripper) ##
+* Use simulate program for see Robot to picking a Gripper 
+
+## [createresume](https://github.com/pection/aboutme/tree/master/createresume) ##
 * CreateResume from python 
 
-## [learning_CS50](https://github.com/pection/aboutme) ##
-* Simulate Robot to picking a good gripper 
+## [learning_CS50](https://github.com/pection/aboutme/tree/master/CS50-training) ##
+* learning a CS50 to use python create website
+
+##[This is Reference](https://github.com/pection/aboutme/tree/master/convolutional-pose-machines-tensorflow)##
+* This is my inspiration to find Convolutional Pose Machines with Tensorflow
