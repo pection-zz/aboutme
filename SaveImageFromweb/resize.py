@@ -1,4 +1,21 @@
 import cv2
+import argparse
+import tldextract
+
+broken_images = []
+image_urls=[]
+parser = argparse.ArgumentParser(description='This is Resize image  script')
+parser.add_argument('-i','--in',action='store',dest='input',default=None,help='<Required>image path',required=True)
+parser.add_argument('-o','--out',action='store',dest='output',default=None,help='<Required>image path',required=True)
+parser.add_argument('-wi','--width',action='store',dest='width',default=300,help='<Required>image path',required=False)
+parser.add_argument('-hi','--height',action='store',dest='height',default=300,help='<Required>image path',required=False)
+results = parser.parse_args()
+imgpath = results.input
+savepath= results.output
+width_image=results.width
+height_image=results.height
+print(width_image)
+print(height_image)
 def resize(image, width = None, height = None, inter = cv2.INTER_AREA):
     # initialize the dimensions of the image to be resized and grab the image size
     dim = None
@@ -21,8 +38,6 @@ def resize(image, width = None, height = None, inter = cv2.INTER_AREA):
     # return the resized image
     return resized
 
-imgdefault=cv2.imread('/Users/pection/Programing/aboutme/Lendetection-FinalProject/Default.png',0)
-
-img = resize(image=imgdefault,width=int(300),height=int(300))
-print (img)
-cv2.imwrite('/Users/pection/Programing/aboutme/Lendetection-FinalProject/Default_resize.png',img)
+imgdefault=cv2.imread(imgpath,0)
+img = resize(image=imgdefault,width=int(width_image),height=int(height_image))
+cv2.imwrite(savepath,img)
