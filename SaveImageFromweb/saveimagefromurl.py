@@ -5,16 +5,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 import tldextract
 broken_images = []
-import argparse
-
-ap = argparse.ArgumentParser()
-ap.add_argument("-u", "--url", type=str,
-  help="url to save image")
-args = vars(ap.parse_args())
-if args["url"] !=False:
-    image_urls=[args["url"]]
-else
-    image_urls = ['https://5krorwxhkqjiiij.ldycdn.com/cloud/irBqkKkqRilSjqkrnjko/SF-1-56-FT-28-HMC-L.jpg']
+image_urls = ['https://5krorwxhkqjiiij.ldycdn.com/cloud/irBqkKkqRilSjqkrnjko/SF-1-56-FT-28-HMC-L.jpg']
 for img in image_urls:
     # We can split the file based upon / and extract the last split within the python list below:
     file_name = img.split('/')[-1]
