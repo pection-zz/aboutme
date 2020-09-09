@@ -10,8 +10,7 @@ broken_images = []
 image_urls=[]
 parser = argparse.ArgumentParser(description='This is the Saveimagefromurl script')
 parser.add_argument('-u','--ur',action='store',dest='url',default=None,help='<Required> url link',required=True)
-results = parser.parse_args()# collect cmd line args
-
+results = parser.parse_args()
 url = results.url
 image_urls.append(url)
 if url is not None:
