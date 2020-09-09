@@ -18,6 +18,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ![alt text][IM_default]
 ![alt text][IM_afterpola]
 ![alt text][IM_afterpola2]
+
 [IM_default]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png "Image Before polarization"
 [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
 [IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg "Image After polarization Zoom"
