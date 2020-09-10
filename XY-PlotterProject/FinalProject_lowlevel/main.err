@@ -1,0 +1,5 @@
+>>> Warning 208 "main.c" Line 72(5,9): Function not void and does not return a value  main
+>>> Warning 202 "main.c" Line 36(24,34): Variable never used:   Tx1BuffPtr
+>>> Warning 202 "main.c" Line 74(18,30): Variable never used:   SendTx1Count
+C:\Embed\FinalProjec\main.o ===>  0 Errors,  3 Warnings.
+Build Successful.
