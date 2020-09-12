@@ -4,7 +4,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 # Contact
 [Email Me](mailto:pection.naphat@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/naphat-nithisopa-7727981b6/)
+[LinkedIn](https://www.linkedin.com/in/naphat-nithisopa)
 
 # Robotic Engineering Projects #
 
