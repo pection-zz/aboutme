@@ -1,0 +1,3 @@
+[submodule "mn-ecommerce"]
+	path = mn-ecommerce
+	url = https://github.com/pection/mn-ecommerce
