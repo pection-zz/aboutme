@@ -1,78 +1,65 @@
-# Django E-commerce
+# Django-Ecommerce
 
-This is a very simple e-commerce website built with Django.
+Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
-## Quick demo
+![image](https://user-images.githubusercontent.com/29988949/65267147-499fc580-dac9-11e9-90e8-eccbc93c7c3a.png)
 
-[![alt text](https://justdjango.s3-us-west-2.amazonaws.com/media/gifs/djecommerce.gif "Logo")](https://youtu.be/z4USlooVXG0)
+`Product Slide`
 
----
+![image](https://user-images.githubusercontent.com/29988949/65999313-ff67fe00-e451-11e9-9ed9-fc7bce704f17.png)
 
-## Deprecation warning
+`Shop Page`
+![image](https://user-images.githubusercontent.com/29988949/66098968-923f9000-e559-11e9-8691-cd5c2b181ca1.png)
 
-This project was created almost two years ago. Since then, there is a newer version of the project which you can find [here](https://github.com/justdjango/django-simple-ecommerce)
+`Product Detail Page`
+![image](https://user-images.githubusercontent.com/29988949/66291084-bff84200-e895-11e9-8d53-3aa23b29dbae.png)
 
----
+`Cart Page`
+![image](https://user-images.githubusercontent.com/29988949/66291144-f0d87700-e895-11e9-8545-b8f93f799063.png)
 
-## Project Summary
+`BillingAddress Page`
+![image](https://user-images.githubusercontent.com/29988949/66291542-013d2180-e897-11e9-8ea9-40afcb90cee2.png)
 
-The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing.
+`Stripe Payment Page`
+![image](https://user-images.githubusercontent.com/29988949/66291610-29c51b80-e897-11e9-8b47-20de35d6c1d0.png)
 
-[![alt text](https://justdjango.s3-us-west-2.amazonaws.com/media/thumbnails/djecommerce.png "Logo")](https://youtu.be/z4USlooVXG0)
+`Order Success Page`
+![image](https://user-images.githubusercontent.com/29988949/66291657-3e091880-e897-11e9-830b-6cf44e72a995.png)
 
----
+# Installation
 
-## Running this project
+`pip install django`
 
-To get this project up and running you should start by having Python installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with
+`virtualenv env`
 
+# For Mac/ Linux
+
+`source env/bin/activate`
+
+# For Window
+
+`env\scripts\activate`
+
+`pip install -r requirements.txt`
+
+`python manage.py makemigrations`
+
+`python manage.py migrate`
+
+`python manage.py runserver`
+
+# For Admin Login
+
+```python
+python manage.py createsuperuser
+Username : admin
+Password : 12345678
 ```
-pip install virtualenv
-```
+# Demo
 
-Clone or download this repository and open it in your editor of choice. In a terminal (mac/linux) or windows terminal, run the following command in the base directory of this project
+http://djangoecommerce.pythonanywhere.com
 
-```
-virtualenv env
-```
+# HTML Template
 
-That will create a new folder `env` in your project directory. Next activate it with this command on mac/linux:
+https://colorlib.com/etc/fashe/index.html
 
-```
-source env/bin/active
-```
-
-Then install the project dependencies with
-
-```
-pip install -r requirements.txt
-```
-
-Now you can run the project with this command
-
-```
-python manage.py runserver
-```
-
-**Note** if you want payments to work you will need to enter your own Stripe API keys into the `.env` file in the settings files.
-
----
-
-## Follow the tutorial
-
-This project is part of a [series on YouTube](https://youtu.be/z4USlooVXG0) that teaches how to build an e-commerce website with Django.
-
----
-
-## Support
-
-If you'd like to support this project and all the other open source work on this organization, you can use the following options
-
-### Option 1: GitHub Sponsors
-
-Sponsor through GitHub Sponsors. On GitHub, [this repository](https://github.com/justdjango/django-ecommerce) shows a button where you can Sponsor the contributors.
-
-### Option 2: JustDjango
-
-If you're learning Django and want to take your next step to become a professional Django developer, consider signing up on [JustDjango](https://learn.justdjango.com).
-# mn-ecommerce

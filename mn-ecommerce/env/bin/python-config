@@ -1,4 +1,4 @@
-#!/Users/pection/Programing/mn-ecommerce/env/bin/python
+#!/Users/pection/Programing/aboutme/mn-ecommerce/env/bin/python
 
 import sys
 import getopt
