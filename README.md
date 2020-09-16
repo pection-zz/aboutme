@@ -10,7 +10,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 ## [Lens Quality Checking using Machine Learning](https://github.com/pection/aboutme/tree/master/Lendetection-FinalProject) ##
 * Published by Bachelor of Engineering Program in Robotics Engineeing
-* This research project is about checking the quality of the lens with machine learning methods
+* This research project is about checking the quality of the lens with machine learning methods and Machine VISION
 * The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99
 * This method can be applied to \ncheck the quality of lens in manufacturing automation in the future
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
