@@ -37,6 +37,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [HumanoidCode](https://github.com/pection/aboutme/tree/master/Humanoid_Code) ##
 * Humanoid Robot for before upgrade to humanoid league in low-level
+* Create UI to Setup position Humanoid robot with pyqi 
 
 ## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
