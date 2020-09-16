@@ -37,7 +37,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [HumanoidCode](https://github.com/pection/aboutme/tree/master/Humanoid_Code) ##
 * Humanoid Robot for before upgrade to humanoid league in low-level
-* Create UI to Setup position Humanoid robot with pyqi 
+* Create UI to Setup position Humanoid robot with pyqi
 
 ## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
@@ -54,10 +54,10 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [SimulateRobotpickingGripper](https://github.com/pection/aboutme/tree/master/SimulateRobotpickingGripper) ##
 * Use simulate program for see Robot to picking a Gripper
 
-## [createresume](https://github.com/pection/aboutme/tree/master/createresume) ##
+## [Createresume](https://github.com/pection/aboutme/tree/master/createresume) ##
 * CreateResume from python
 
-## [learning_CS50](https://github.com/pection/aboutme/tree/master/CS50-training) ##
+## [Learning_CS50 from Haward](https://github.com/pection/aboutme/tree/master/CS50-training) ##
 * learning a CS50 to use python create website
 
 
