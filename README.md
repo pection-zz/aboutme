@@ -11,7 +11,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 ## [Lens Quality Checking using Machine Learning](https://github.com/pection/aboutme/tree/master/Lendetection-FinalProject) ##
 * Published by Bachelor of Engineering Program in Robotics Engineeing
 * This research project is about checking the quality of the lens with machine learning methods
-* The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99 
+* The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99
 * This method can be applied to \ncheck the quality of lens in manufacturing automation in the future
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
 
@@ -24,13 +24,13 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 [IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg "Image After polarization Zoom"
 
 ## [Internship_JapanProjectandReference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
-* Find joint in Hand with thermal camera and Image processing 
+* Find joint in Hand with thermal camera and Image processing
 
 ## [XY_plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
 
 ## [Interactionforstudentandteacherfrompython](https://github.com/pection/aboutme/tree/master/) ##
-* Create gui for teacher assistant to get interaction from student in class 
+* Create gui for teacher assistant to get interaction from student in class
 
 ## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
 * Humanoid Robot for humanoid league in low-level
@@ -42,19 +42,19 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
-* Use lane detection with matlab programing to compute lane detection in Rasberrypi 
+* Use lane detection with matlab programing to compute lane detection in Rasberrypi
 
-##[MatlabinRobotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
+## [MatlabinRobotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
 * Learning How to use Matlab apply in Robotic
 
-##[Create Ecommerce](https://github.com/pection/aboutme/tree/master/mn_ecommerce) ##
+## [Create Ecommerce](https://github.com/pection/aboutme/tree/master/mn_ecommerce) ##
 * Create Ecommerce website with python and django
 
 ## [SimulateRobotpickingGripper](https://github.com/pection/aboutme/tree/master/SimulateRobotpickingGripper) ##
-* Use simulate program for see Robot to picking a Gripper 
+* Use simulate program for see Robot to picking a Gripper
 
 ## [createresume](https://github.com/pection/aboutme/tree/master/createresume) ##
-* CreateResume from python 
+* CreateResume from python
 
 ## [learning_CS50](https://github.com/pection/aboutme/tree/master/CS50-training) ##
 * learning a CS50 to use python create website
