@@ -103,4 +103,9 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [Theater for children with Rasberrypi and python](https://github.com/pection/aboutme/) ##
 * Make a Hologram Theater for presentation in Children's Day
+
+![alt text][childrenday]
+
+[childrenday]: https://github.com/pection/aboutme/blob/master/childrenday.jpeg "Children's Day team"
+
 ## [PLC cabinet for define type and size of things same as using in the factory](https://github.com/pection/aboutme/) ##
