@@ -53,7 +53,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ![alt text][SegmentMAchine]
 
-[SegmentMAchine]: https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment/Segment.gif "Machine Learning with python"
+[SegmentMAchine]: https://github.com/pection/aboutme/blob/master/ImageProcessingDigitSegment/Segment.gif "Machine Learning with python"
 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi
@@ -72,7 +72,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ![alt text][Resume_png]
 
-[Resume_png]:https://github.com/pection/aboutme/tree/master/createresume/resumefrompython_png "Create from python"
+[Resume_png]:https://github.com/pection/aboutme/blob/master/createresume/resumefrompython_png.png "Create from python"
 
 
 ## [Machine Learning](https://github.com/pection/aboutme/) ##
