@@ -23,6 +23,11 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
 [IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg "Image After polarization Zoom"
 
+## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
+* Simulate Robot looklike a nintendo v from mbed os
+
+[![https://github.com/pection/aboutme/blob/master/mebedos.gif]](https://www.youtube.com/watch?v=_qSjed_wGlM&fbclid=IwAR3CLslPGKYmqIJvhLkzrPJeZpcstmO1yqCWnueQMRvDhv4kAnUiZUEw8Vg)
+
 ## [Internship_JapanProjectandReference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
 * Find joint in Hand with thermal camera and Image processing
 
@@ -85,8 +90,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [Programing the robot for running around the table by using only curcuilt](https://github.com/pection/aboutme/) ##
 * Curcuilt build a robot to serve coffe for customer
 
-## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
-* Simulate Robot looklike a nintendo v from mbed os
+
 
 ## [Theater for children with Rasberrypi and python](https://github.com/pection/aboutme/) ##
 * Make a Hologram Theater for presentation in Children's Day
