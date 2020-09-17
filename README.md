@@ -64,3 +64,18 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [Machine Learning] ##
 * Define bank, coin and balm by using python and machine learning. Moreover, this project can also reading thai by using Ocr
+
+
+## [Automate fan project : using rythm applase for on and off function and using infared for motion of robot] ##
+* Using Arduino Module and Infared sensor
+
+## [Programing the robot for running around the table by using only curcuilt] ##
+* Curcuilt build a robot to serve coffe for customer
+
+## [Programing robot which run by our authorize which same as nintendo v with mbed os] ##
+* Simulate Robot looklike a nintendo v from mbed os 
+
+## [Theater for children with Rasberrypi and python] ##
+* Make a Hologram Theater for presentation in Children's Day
+## [PLC cabinet for define type and size of things same as using in the factory] ##
+
