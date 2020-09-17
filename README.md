@@ -30,6 +30,13 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [Internship JapanProject and Reference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
 * Find joint in Hand with thermal camera and Image processing
+![alt text][show1]
+
+![alt text][show2]![alt text][show3]
+
+[show1]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png "Convolutions hand"
+[show2]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show2.png "Hand-left hand"
+[show3]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png "Hand-right hand"
 
 ## [XY plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
