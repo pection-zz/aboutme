@@ -89,15 +89,15 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 [Resume_png]:https://github.com/pection/aboutme/blob/master/createresume/resumefrompython_png.png "Create from python"
 
 
-## [Machine Learning](https://github.com/pection/aboutme/) ##
-* Define bank, coin and balm by using python and machine learning. Moreover, this project can also reading thai by using Ocr
+## [Machine Learning & OCR tesseract](https://github.com/pection/aboutme/) ##
+* Define bank, coin and balm by using python and machine learning. Moreover, this project can also reading THAI language by using OCR
 
 
-## [Automate fan project : using rythm applase for on and off function and using infared for motion of robot](https://github.com/pection/aboutme/) ##
+## [Automate fan project : using rhythm applause for on and off function and using infrared sensor for motion of robot](https://github.com/pection/aboutme/) ##
 * Using Arduino Module and Infared sensor
 
-## [Programing the robot for running around the table by using only curcuilt](https://github.com/pection/aboutme/) ##
-* Curcuilt build a robot to serve coffe for customer
+## [Programing the robot for running around the table by using only circuilt](https://github.com/pection/aboutme/) ##
+* Curcuilt build a robot to serve coffee for customer
 
 
 
