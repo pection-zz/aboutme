@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogicAnalyzerPlugin>
+  <P Name="LogicAnalyzerGraphicalSettings"></P>
+  <P Name="LogicAnalyzerPlugin">on</P>
+  <P Name="LogicAnalyzerSignalOrdering"></P>
+</LogicAnalyzerPlugin>

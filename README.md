@@ -1,4 +1,4 @@
-# Welcome
+ # Welcome
 Welcome to my online GitHub repository. Below are some of my recent personal Robotic projects. Please reach out if you have any questions or comments, I look forward to hearing from you soon.
 
 # Contact
@@ -30,10 +30,14 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
 
 ## [Interactionforstudentandteacherfrompython](https://github.com/pection/aboutme/tree/master/) ##
-* Create gui for teacher assistant to get interaction from student in class
+* Create application in computer from python and  collect the data base of university students’ usage on gui page
 
 ## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
 * Humanoid Robot for humanoid league in low-level
+![alt text][Certi_default]
+
+[Certi_default]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg "3rd Robocup"
+
 
 ## [HumanoidCode](https://github.com/pection/aboutme/tree/master/Humanoid_Code) ##
 * Humanoid Robot for before upgrade to humanoid league in low-level
@@ -41,6 +45,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
+
 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi
@@ -57,9 +62,5 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [Createresume](https://github.com/pection/aboutme/tree/master/createresume) ##
 * CreateResume from python
 
-## [Learning_CS50 from Haward](https://github.com/pection/aboutme/tree/master/CS50-training) ##
-* learning a CS50 to use python create website
-
-
-## [This is Reference](https://github.com/pection/aboutme/tree/master/convolutional-pose-machines-tensorflow) ##
-* This is my inspiration to find Convolutional Pose Machines with Tensorflow
+## [Machine Learning] ##
+* Define bank, coin and balm by using python and machine learning. Moreover, this project can also reading thai by using Ocr

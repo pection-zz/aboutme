@@ -5,7 +5,7 @@ con = lite.connect('test.db')
 with con:
 
     cur = con.cursor()
-    cur.execute("SELECT * FROM cars")
+    cur.execute("SELECT * FROM car")
 
     rows = cur.fetchall()
 

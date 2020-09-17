@@ -27,7 +27,7 @@ EduHeader = 'EDUCATION & AWARD'
 EduOneTitle = 'King Mongkut’s University of Technology Thonburi\nBachelor of Engineering Program in Robotics Engineeing'
 EduOneTime = '2015-2019 GPAX: 2.85 :Active Recruitment Scholarship 50%'
 SkillsHeader = 'Skills'
-SkillsDesc = '- Electronic\n- Python\n- Pandas\n- C,C++\n- NumPy\n- Image processing\n- Machine Learning\n- Controller\n- Command Line\n- Git and Version Control\n- ROS\n- APIs\n- GUI\n '
+SkillsDesc = '- Python\n- Image processing\n- Machine Learning\n Pandas\n- JavaScipt\n- C,C++\n- mbed OS\n- NumPy\n- PID Controll\n- Command Line\n- Git and Version Control\n- ROS\n- APIs\n- GUI\n - Electronic\n- Mechanical'
 ExtrasDesc = 'Learned popular controller \n,programing languages \n,Image processing \n,machine learning \nand Humanoid Robot'
 WorkHeader = 'EXPERIENCE'
 WorkOneTitle = 'Kanazawa University/ Robotic researcher'
@@ -79,7 +79,7 @@ plt.annotate(EduHeader, (.02,.095), weight='bold', fontsize=10, color='#393b44')
 plt.annotate(EduOneTitle, (.02,.055), weight='bold', fontsize=10)
 plt.annotate(EduOneTime, (.02,.035), weight='regular', fontsize=9, alpha=.6)
 plt.annotate(SkillsHeader, (.7,.7), weight='bold', fontsize=10, color='#ffffff')
-plt.annotate(SkillsDesc, (.7,.45), weight='regular', fontsize=10, color='#ffffff')
+plt.annotate(SkillsDesc, (.7,.43), weight='regular', fontsize=10, color='#ffffff')
 # plt.annotate(ExtrasTitle, (.7,.43), weight='bold', fontsize=10, color='#ffffff')
 plt.annotate(ExtrasDesc, (.7,.345), weight='regular', fontsize=10, color='#ffffff')
 plt.annotate(CodeTitle, (.73,.25), weight='bold', fontsize=10, color='#ffffff')
