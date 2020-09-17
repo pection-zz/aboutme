@@ -28,8 +28,8 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 [![ํYoutube in Gif](https://github.com/pection/aboutme/blob/master/mebedos.gif)](https://www.youtube.com/watch?v=_qSjed_wGlM&fbclid=IwAR3CLslPGKYmqIJvhLkzrPJeZpcstmO1yqCWnueQMRvDhv4kAnUiZUEw8Vg)
 
-## [Internship JapanProject and Reference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
-* Find joint in Hand with thermal camera and Image processing
+## [Internship JapanProject](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
+* Find joint in Hand with thermal camera and Image processing & Convolutions Hand 3D
 ![alt text][show1]
 
 ![alt text][show2]![alt text][show3]
