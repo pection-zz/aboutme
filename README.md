@@ -34,7 +34,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [XY plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
 
-## [Interaction for student and teacher from python](https://github.com/pection/aboutme/tree/master/) ##
+## [Interaction for student and teacher from python](https://github.com/pection/aboutme/tree/master/Interactionstudent) ##
 * Create application in computer from python and  collect the data base of university students’ usage on gui page
 
 ## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
