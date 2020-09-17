@@ -28,13 +28,13 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 [![ํYoutube in Gif](https://github.com/pection/aboutme/blob/master/mebedos.gif)](https://www.youtube.com/watch?v=_qSjed_wGlM&fbclid=IwAR3CLslPGKYmqIJvhLkzrPJeZpcstmO1yqCWnueQMRvDhv4kAnUiZUEw8Vg)
 
-## [Internship_JapanProjectandReference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
+## [Internship JapanProject and Reference](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
 * Find joint in Hand with thermal camera and Image processing
 
-## [XY_plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
+## [XY plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
 
-## [Interactionforstudentandteacherfrompython](https://github.com/pection/aboutme/tree/master/) ##
+## [Interaction for student and teacher from python](https://github.com/pection/aboutme/tree/master/) ##
 * Create application in computer from python and  collect the data base of university students’ usage on gui page
 
 ## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
@@ -72,10 +72,10 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 [AMAS2017img]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/IMG_0287.jpeg "AMAS Team"
 
-## [MatlabinRobotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
+## [Matlab in Robotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
 * Learning How to use Matlab apply in Robotic
 
-## [Create Ecommerce](https://github.com/pection/aboutme/tree/master/mn_ecommerce) ##
+## [Create Ecommrce website](https://github.com/pection/aboutme/tree/master/mn_ecommerce) ##
 * Create Ecommerce website with python and django
 
 ## [SimulateRobotpickingGripper](https://github.com/pection/aboutme/tree/master/SimulateRobotpickingGripper) ##
