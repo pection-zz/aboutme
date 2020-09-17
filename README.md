@@ -34,7 +34,8 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
 * Humanoid Robot for humanoid league in low-level
-![alt text][Certi_default]
+
+![][Certi_default]
 
 [Certi_default]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg "3rd Robocup"
 
@@ -45,14 +46,14 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ![alt text][Qualiigif]
 
-[Qualigif](https://github.com/pection/aboutme/tree/master/Humanoid_Robot/Quali.gif)"Robocup2019 Qualification"
+[Qualigif]: https://github.com/pection/aboutme/tree/master/Humanoid_Robot/Quali.gif "Robocup2019 Qualification"
 
 ## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
 
 ![alt text][SegmentMAchine]
 
-[SegmentMAchine](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment/Segment.gif)"Machine Learning with python"
+[SegmentMAchine]: https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment/Segment.gif"Machine Learning with python"
 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi
