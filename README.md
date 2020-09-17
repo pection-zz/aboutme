@@ -42,10 +42,11 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [HumanoidCode](https://github.com/pection/aboutme/tree/master/Humanoid_Code) ##
 * Humanoid Robot for before upgrade to humanoid league in low-level
 * Create UI to Setup position Humanoid robot with pyqi
+![](https://github.com/pection/aboutme/tree/master/Humanoid_Robot/Quali.gif)
 
 ## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
-
+![](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment/Segment.gif)
 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi
