@@ -63,6 +63,15 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi
 
+![alt text][AMAS2017gif]
+
+[AMAS2017gif]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/video.gif
+ "AMAS2017trackline"
+
+![alt text][AMAS2017img]
+
+[AMAS2017img]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/IMG_0287.jpeg "AMAS Team"
+
 ## [MatlabinRobotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
 * Learning How to use Matlab apply in Robotic
 
