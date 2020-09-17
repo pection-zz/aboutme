@@ -44,9 +44,9 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 * Humanoid Robot for before upgrade to humanoid league in low-level
 * Create UI to Setup position Humanoid robot with pyqi
 
-![alt text][Qualiigif]
+![alt text][Qualigif]
 
-[Qualigif]: https://github.com/pection/aboutme/tree/master/Humanoid_Robot/Quali.gif "Robocup2019 Qualification"
+[Qualigif]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Quali.gif "Robocup2019 Qualification"
 
 ## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
