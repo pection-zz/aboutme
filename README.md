@@ -36,7 +36,9 @@ zoom
 [IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom" -->
 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
-* Simulate Robot looklike a nintendo v from mbed os
+* Simulate Robot looklike a nintendo v & Add more function (Replay,No bump)from mbed os with Nucleo, MCU , LCD , Omni Wheel ,lipo Battery, Ultrasonic, Bluetooth, Eeprom, L298
+
+Trailer Link in Gif
 
 [![ํYoutube in Gif](https://github.com/pection/aboutme/blob/master/static/Images/mebedos.gif)](https://www.youtube.com/watch?v=_qSjed_wGlM&fbclid=IwAR3CLslPGKYmqIJvhLkzrPJeZpcstmO1yqCWnueQMRvDhv4kAnUiZUEw8Vg)
 
