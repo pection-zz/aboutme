@@ -20,14 +20,18 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
 
 <!-- ![alt text][IM_default] -->
+before polarization
 <img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png" width ="300" height="300">
+after polarization
+
 <img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG" width ="300" height="300">
+zoom
 <img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg" width ="300" height="300">
 <!-- ![alt text][IM_afterpola]![alt text][IM_afterpola2]
 
 <!-- [IM_default]:   -->
 <!-- [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
-[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom" --> -->
+[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom" -->
 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
 * Simulate Robot looklike a nintendo v from mbed os
@@ -39,7 +43,11 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 <!-- ![alt text][show1] -->
 
 <!-- ![alt text][show2]![alt text][show3] -->
+Convolutions Hand 3D
+
 <img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png" width ="500" height="500">
+
+Find joint from Thermal Camera with Image processing
 <img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show2.png" width ="500" height="500">
 <img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png" width ="500" height="500">
 <!-- [show1]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png "Convolutions hand"
@@ -64,6 +72,8 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 * Humanoid Robot for before upgrade to humanoid league in low-level
 * Create UI to Setup position Humanoid robot with pyqi
 
+"Robocup2019 Qualification
+
 ![alt text][Qualigif]
 
 [Qualigif]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Quali.gif "Robocup2019 Qualification"
@@ -77,6 +87,8 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi
+
+Example program from test in other video with Fast movement
 
 ![alt text][AMAS2017gif]
 
