@@ -114,6 +114,6 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ![alt text][childrenday]
 
-[childrenday]: https://github.com/pection/aboutme/blob/master/static/Images/hildrenday.jpeg "Children's Day team"
+[childrenday]: https://github.com/pection/aboutme/blob/master/static/Images/childrenday.jpeg  "Children's Day team"
 
 ## [PLC cabinet for define type and size of things same as using in the factory](https://github.com/pection/aboutme/) ##
