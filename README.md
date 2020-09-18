@@ -52,6 +52,7 @@ Convolutions Hand 3D
 <img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png" width ="500" height="500">
 
 Find joint from Thermal Camera with Image processing
+
 <img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show2.png" width ="500" height="500">
 <img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png" width ="500" height="500">
 <!-- [show1]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png "Convolutions hand"
@@ -123,6 +124,10 @@ Example program from test in other video with Fast movement
 ## [Machine Learning & OCR tesseract](https://github.com/pection/aboutme/) ##
 * Define bank, coin and balm by using python and machine learning. Moreover, this project can also reading THAI language by using OCR
 
+##[Machine Learning Class](https://github.com/pection/aboutme/tree/master/MachineLearning/) ##
+* House Price Prediction
+* Text Classification and Cluster
+* Object Recognition
 
 ## [Automate fan project : using rhythm applause for on and off function and using infrared sensor for motion of robot](https://github.com/pection/aboutme/) ##
 * Using Arduino Module and Infared sensor
