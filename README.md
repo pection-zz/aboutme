@@ -3,8 +3,11 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 # Contact
 [Email Me](mailto:pection.naphat@gmail.com)
+
 [Facebook Me](https://www.facebook/com/pections)
+
 [Dev Me](dev.to/pection)
+
 [LinkedIn](https://www.linkedin.com/in/naphat-nithisopa)
 
 # Robotic Engineering Projects #
@@ -20,7 +23,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ![alt text][IM_afterpola]![alt text][IM_afterpola2]
 
-[IM_default]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png&s=200 "Image Before polarization"
+[IM_default]: <img src"https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png" width ="300" height="300"> "Image Before polarization"
 [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG&s=200 "Image After polarization"
 [IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom"
 
