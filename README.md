@@ -3,7 +3,8 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 # Contact
 [Email Me](mailto:pection.naphat@gmail.com)
-
+[Facebook Me](https://www.facebook/com/pections)
+[Dev Me](dev.to/pection)
 [LinkedIn](https://www.linkedin.com/in/naphat-nithisopa)
 
 # Robotic Engineering Projects #
