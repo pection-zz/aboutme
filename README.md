@@ -21,7 +21,9 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 <!-- ![alt text][IM_default] -->
 before polarization
+
 <img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png" width ="300" height="300">
+
 after polarization
 
 <img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG" width ="300" height="300">
