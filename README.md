@@ -36,13 +36,15 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ## [Internship JapanProject](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
 * Find joint in Hand with thermal camera and Image processing & Convolutions Hand 3D
-![alt text][show1]
+<!-- ![alt text][show1] -->
 
-![alt text][show2]![alt text][show3]
-
-[show1]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png "Convolutions hand"
+<!-- ![alt text][show2]![alt text][show3] -->
+<img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png" width ="500" height="500">
+<img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show2.png" width ="500" height="500">
+<img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png width ="500" height="500">
+<!-- [show1]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png "Convolutions hand"
 [show2]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show2.png "Hand-left hand"
-[show3]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png "Hand-right hand"
+[show3]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png "Hand-right hand" -->
 
 ## [XY plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
@@ -53,10 +55,10 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
 * Humanoid Robot for humanoid league in low-level
 
-![][Certi_default]
+<!-- ![][Certi_default]
 
-[Certi_default]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg "3rd Robocup"
-
+[Certi_default]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg "3rd Robocup" -->
+<img src ="https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg" width ="500" height="500">
 
 ## [HumanoidCode](https://github.com/pection/aboutme/tree/master/Humanoid_Code) ##
 * Humanoid Robot for before upgrade to humanoid league in low-level
@@ -81,9 +83,10 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 [AMAS2017gif]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/video.gif
  "AMAS2017trackline"
 
-![alt text][AMAS2017img]
+<img src ="https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/IMG_0287.jpeg" width ="500" height="500">
+<!-- ![alt text][AMAS2017img]
 
-[AMAS2017img]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/IMG_0287.jpeg "AMAS Team"
+[AMAS2017img]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/IMG_0287.jpeg "AMAS Team" -->
 
 ## [Matlab in Robotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
 * Learning How to use Matlab apply in Robotic
