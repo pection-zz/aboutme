@@ -21,12 +21,13 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 <!-- ![alt text][IM_default] -->
 <img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png" width ="300" height="300">
-
-![alt text][IM_afterpola]![alt text][IM_afterpola2]
+<img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG" width ="300" height="300">
+<img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg" width ="300" height="300">
+<!-- ![alt text][IM_afterpola]![alt text][IM_afterpola2]
 
 <!-- [IM_default]:   -->
-[IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG&s=200 "Image After polarization"
-[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom"
+<!-- [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
+[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom" --> -->
 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
 * Simulate Robot looklike a nintendo v from mbed os
