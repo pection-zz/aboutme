@@ -13,16 +13,16 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 * Published by Bachelor of Engineering Program in Robotics Engineeing
 * This research project is about checking the quality of the lens with machine learning methods and Machine VISION
 * The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99
-* This method can be applied to \ncheck the quality of lens in manufacturing automation in the future
+* This method can be applied to check the quality of lens in manufacturing automation in the future
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
 
-![alt text][IM_default | width = 300]
+![alt text][IM_default]
 
 ![alt text][IM_afterpola]![alt text][IM_afterpola2]
 
-[IM_default]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png "Image Before polarization"
-[IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
-[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg "Image After polarization Zoom"
+[IM_default]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png&s=200 "Image Before polarization"
+[IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG&s=200 "Image After polarization"
+[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom"
 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
 * Simulate Robot looklike a nintendo v from mbed os
