@@ -97,7 +97,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 * Use simulate program for see Robot to picking a Gripper
 
 ## [Createresume](https://github.com/pection/aboutme/tree/master/createresume) ##
-* CreateResume from python code
+* Create your Resume with QR code from python with matplotlib
 
 ![alt text][Resume_png]
 
@@ -119,8 +119,9 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [Theater for children with Rasberrypi and python](https://github.com/pection/aboutme/) ##
 * Make a Hologram Theater for presentation in Children's Day
 
-![alt text][childrenday]
+<img src ="https://github.com/pection/aboutme/blob/master/static/Images/childrenday.jpeg" width ="500" height="500">
+<!-- ![alt text][childrenday]
 
-[childrenday]: https://github.com/pection/aboutme/blob/master/static/Images/childrenday.jpeg  "Children's Day team"
+[childrenday]: https://github.com/pection/aboutme/blob/master/static/Images/childrenday.jpeg  "Children's Day team" -->
 
 ## [PLC cabinet for define type and size of things same as using in the factory](https://github.com/pection/aboutme/) ##
