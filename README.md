@@ -26,7 +26,7 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
 * Simulate Robot looklike a nintendo v from mbed os
 
-[![ํYoutube in Gif](https://github.com/pection/aboutme/blob/master/mebedos.gif)](https://www.youtube.com/watch?v=_qSjed_wGlM&fbclid=IwAR3CLslPGKYmqIJvhLkzrPJeZpcstmO1yqCWnueQMRvDhv4kAnUiZUEw8Vg)
+[![ํYoutube in Gif](https://github.com/pection/aboutme/blob/master/static/Images/mebedos.gif)](https://www.youtube.com/watch?v=_qSjed_wGlM&fbclid=IwAR3CLslPGKYmqIJvhLkzrPJeZpcstmO1yqCWnueQMRvDhv4kAnUiZUEw8Vg)
 
 ## [Internship JapanProject](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
 * Find joint in Hand with thermal camera and Image processing & Convolutions Hand 3D
@@ -113,6 +113,6 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 
 ![alt text][childrenday]
 
-[childrenday]: https://github.com/pection/aboutme/blob/master/childrenday.jpeg "Children's Day team"
+[childrenday]: https://github.com/pection/aboutme/blob/master/static/Images/hildrenday.jpeg "Children's Day team"
 
 ## [PLC cabinet for define type and size of things same as using in the factory](https://github.com/pection/aboutme/) ##
