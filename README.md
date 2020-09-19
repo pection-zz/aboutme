@@ -6,7 +6,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 [Facebook Me](https://www.facebook/com/pections)
 
-[Dev Me](dev.to/pection)
+[Dev Me](https://dev.to/pection)
 
 [LinkedIn](https://www.linkedin.com/in/naphat-nithisopa)
 
