@@ -124,7 +124,7 @@ Trailer Link in Gif
 ## [Machine Learning & OCR tesseract](https://github.com/pection/aboutme/) ##
 * Define bank, coin and balm by using python and machine learning. Moreover, this project can also reading THAI language by using OCR
 
-##[Machine Learning Class](https://github.com/pection/aboutme/tree/master/MachineLearning/) ##
+## [Machine Learning Class](https://github.com/pection/aboutme/tree/master/MachineLearning/) ##
 * House Price Prediction
 * Text Classification and Cluster
 * Object Recognition
