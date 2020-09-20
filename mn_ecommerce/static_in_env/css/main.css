@@ -1875,7 +1875,7 @@ li.sale-noti > a {
   background-size: cover;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 720px) {
   .bg-title-page .l-text2 {font-size: 35px;}
   .bg-title-page .m-text13 {font-size: 16px;}
 }
