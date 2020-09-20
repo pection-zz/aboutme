@@ -138,7 +138,7 @@
 					<!--  -->
 					<div class="flex-sb-m flex-w p-b-35">
 						<div class="flex-w">
-						
+
 							<div class="rs2-select2 bo4 of-hidden w-size12 m-t-5 m-b-5 m-r-10" >
 								<select class="selection-2" name="sorting">
 									<option>Default Sorting</option>
@@ -151,11 +151,11 @@
 							<div class="rs2-select2 bo4 of-hidden w-size12 m-t-5 m-b-5 m-r-10">
 								<select class="selection-2" name="sorting">
 									<option>Price</option>
-									<option>$0.00 - $50.00</option>
-									<option>$50.00 - $100.00</option>
-									<option>$100.00 - $150.00</option>
-									<option>$150.00 - $200.00</option>
-									<option>$200.00+</option>
+									<option>$0.00 - $5000.00</option>
+									<option>$5000.00 - $10000.00</option>
+									<option>$10000.00 - $15000.00</option>
+									<option>$15000.00 - $20000.00</option>
+									<option>$20000.00+</option>
 
 								</select>
 							</div>
@@ -173,7 +173,7 @@
 							<!-- Block2 -->
 							<div class="block2">
 								<div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelnew">
-									<img src="{{ item.image.url }}" alt="IMG-PRODUCT" 
+									<img src="{{ item.image.url }}" alt="IMG-PRODUCT"
 								style="height: 360px;">
 
 									<div class="block2-overlay trans-0-4">
@@ -204,10 +204,10 @@
 						</div>
 						{% endfor %}
 
-						
 
-						
-				
+
+
+
 				</div>
 				<!-- ---- row end ------- -->
 
@@ -222,8 +222,8 @@
 					</a>
 					{% endif %}
 					<a href="?page={{ page_obj.number }}" class="item-pagination flex-c-m trans-0-4 active-pagination">{{page_obj.number}}</a>
-					
-					
+
+
 					{% if page_obj.has_next %}
 					<a class="page-link" href="?page={{ page_obj.next_page_number}}" aria-label="Next">
 							<span aria-hidden="true">&raquo;</span>
