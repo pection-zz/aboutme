@@ -4,7 +4,7 @@ import tldextract
 
 broken_images = []
 image_urls=[]
-templateimg=cv2.imread('/Users/pection/Documents/mn_furniture/Bill/TemplateBill.png')
+templateimg=cv2.imread('/Users/pection/Documents/mn_furniture/Bill/TemplateBill.jpg')
 # parser = argparse.ArgumentParser(description='This is Resize image  script')
 # parser.add_argument('-i','--in',action='store',dest='input',default=None,help='<Required>image path',required=True)
 # parser.add_argument('-o','--out',action='store',dest='output',default=None,help='<Required>image path',required=True)

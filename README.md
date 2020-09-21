@@ -13,6 +13,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 # Robotic Engineering Projects #
 
 ## [Lens Quality Checking using Machine Learning](https://github.com/pection/aboutme/tree/master/Lendetection-FinalProject) ##
+### [First place in the world] ###
 * Published by Bachelor of Engineering Program in Robotics Engineeing
 * This research project is about checking the quality of the lens with machine learning methods and Machine VISION
 * The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99

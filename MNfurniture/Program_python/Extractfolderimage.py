@@ -11,10 +11,10 @@ for root, dirs, files in os.walk(path):
         if(file.endswith(".jpg")):
             filelist.append(os.path.join(root,file))
 print (filelist)
-logo=Image.open('logo.png')
-logo2=Image.open('logo2.png')
-watermark = Image.open('WatermarkB5.png')
-watermark2 = Image.open('WatermarkB3.png')
+logo=Image.open('logo.jpg')
+logo2=Image.open('logo2.jpg')
+watermark = Image.open('WatermarkB5.jpg')
+watermark2 = Image.open('WatermarkB3.jpg')
 
 logoWidth = watermark.width
 logoHeight = watermark.height
@@ -42,4 +42,4 @@ for filename in filelist:
     #     image2.paste(watermark,(int((img_w-logoWidth)/2),int((img_h-logoHeight)/2)),watermark)
     num += 1
     # image.save(filename)
-    image.save('/Users/pection/Documents/mn_furniture/AddwatermarkProgram/Extract/'+str(num)+'.png')
+    image.save('/Users/pection/Documents/mn_furniture/AddwatermarkProgram/Extract/'+str(num)+'.jpg')

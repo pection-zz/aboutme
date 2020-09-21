@@ -3,7 +3,7 @@ import sys
 
 from PIL import Image
 
-EXTS = ('.jpg', '.png')
+EXTS = ('.jpg', '.jpg')
 
 if len(sys.argv) < 3:
     print('Usage: watermark.py \'image folder path\' \'logo path\' [topleft, topright, bottomleft, bottomright, center]')

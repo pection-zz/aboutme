@@ -13,13 +13,13 @@ imgpath = results.input
 filelist=[]
 for root, dirs, files in os.walk(imgpath):
     for file in files:
-        if(file.endswith(".jpg") or file.endswith(".png")):
+        if(file.endswith(".jpg") or file.endswith(".jpg")):
             filelist.append(os.path.join(root,file))
 print (filelist)
-logo=Image.open('/Users/pection/Programing/aboutme/MNfurniture/static/image/logo.png')
-logo2=Image.open('/Users/pection/Programing/aboutme/MNfurniture/static/image/logo2.png')
-watermark = Image.open('/Users/pection/Programing/aboutme/MNfurniture/Bill/Template/PAID.png')
-# watermark2 = Image.open('/Users/pection/Programing/aboutme/MNfurniture/static/image/WatermarkWo4.png')
+logo=Image.open('/Users/pection/Programing/aboutme/MNfurniture/static/image/logo.jpg')
+logo2=Image.open('/Users/pection/Programing/aboutme/MNfurniture/static/image/logo2.jpg')
+watermark = Image.open('/Users/pection/Programing/aboutme/MNfurniture/Bill/Template/PAID.jpg')
+# watermark2 = Image.open('/Users/pection/Programing/aboutme/MNfurniture/static/image/WatermarkWo4.jpg')
 
 logoWidth = watermark.width
 logoHeight = watermark.height
@@ -47,4 +47,4 @@ for filename in filelist:
         image2.paste(watermark,(int((img_w-watermarkW)/2),int((img_h-watermarkH)/2)),watermark)
     num += 1
     image2.save(filename)
-    # image.save('/Users/pection/Programing/aboutme/MNfurniture/static/ExtractFolderImage/'+str(num)+'.png')
+    # image.save('/Users/pection/Programing/aboutme/MNfurniture/static/ExtractFolderImage/'+str(num)+'.jpg')

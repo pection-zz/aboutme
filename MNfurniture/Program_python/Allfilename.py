@@ -5,5 +5,5 @@ path ="/Users/pection/Documents/mn_furniture/AddwatermarkProgram/CG1"
 
 for root, dirs, files in os.walk(path):
     for file in files:
-        if(file.endswith(".png")):
+        if(file.endswith(".jpg")):
             print(os.path.join(root,file))
