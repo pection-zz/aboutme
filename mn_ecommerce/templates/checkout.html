@@ -55,7 +55,7 @@
       <h4 class="mb-3" style=" margin-top: 26px;">Billing address</h4>
       <form method="POST" class="needs-validation" novalidate>
       	{% csrf_token %}
-        {{ form|crispy }}
+        {{ form|crispy s}}
         <div class="mb-3">
           <label for="address">Address</label>
           {{ form.street_address }}
