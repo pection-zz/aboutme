@@ -9,7 +9,7 @@
 */
 .block2-labelpromotion::before,
 .block2-labelsale::before,
-.block2-labelnew::before 
+.block2-labelnew::before
 {
   z-index: 100;
   font-family: Montserrat-Regular;
@@ -94,12 +94,12 @@
 		.hov1{
 			background-color: white !important;
 			color: black !important;
-			
+
 		}
 	</style>
 	<section class="banner bgwhite p-t-40 p-b-40">
 		<div class="container">
-			<div class="row">
+			<div class="column">
 
 				{% categories_div %}
 
@@ -152,27 +152,27 @@
 				<div class="slick2">
 
 					{% for item in object_list %}
-					
+
 					<div class="item-slick2 p-l-15 p-r-15">
 						<!-- Block2 -->
 						<div class="block2">
-							
+
 							<div class="block2-img wrap-pic-w of-hidden pos-relative block2-label{{item.get_label_display}}">
 								<a href="{{item.get_absolute_url}}">
-								<img src="{{ item.image.url }}" alt="IMG-PRODUCT" 
+								<img src="{{ item.image.url }}" alt="IMG-PRODUCT"
 								style="height: 370px; width:100%; "></a>
-							   
+
 
 								<!-- <div class="block2-overlay trans-0-4">
 									<a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
 										<i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
 										<i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
 									</a>
-	
-									
+
+
 								</div> -->
 							</div>
-							
+
 
 							<div class="block2-txt p-t-20">
 								<a href="{{item.get_absolute_url}}" class="block2-name dis-block s-text3 p-b-5" style="color: black;">
@@ -192,18 +192,18 @@
 									${{ item.price }}
 								</span>
 								{% endif %}
-								
 
-								
+
+
 							</div>
-							
+
 						</div>
 					</div>
-				
+
 					{% endfor %}
 
-					
-				
+
+
 				</div>
 			</div>
 
@@ -239,7 +239,7 @@
 			background-color: whitesmoke;
 			color: #000 !important;
 			opacity: 0.7;
-	
+
 		}
 	</style>
 	<section class="banner2 bg5 p-t-55 p-b-55">
@@ -258,10 +258,10 @@
 							</span>
 
 							<br>
-							
+
 
 								<div class="wrap-btn-slide1 w-size1 animated" data-appear="slideInUp">
-						
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite  trans-0-4">
 								Shop Now
 							</a>
@@ -283,10 +283,10 @@
 							</span>
 
 							<br>
-							
+
 
 								<div class="wrap-btn-slide1 w-size1 animated" data-appear="slideInUp">
-						
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite  trans-0-4">
 								Shop Now
 							</a>
@@ -296,7 +296,7 @@
 					</div>
 				</div>
 
-			
+
 			</div>
 		</div>
 	</section>
@@ -314,13 +314,13 @@
 <br><br>
 <section class="slide1">
 
-	
+
 	<div class="wrap-slick2">
 		<div class="slick1">
-			
-		
-	
-			
+
+
+
+
 
 			<div class="item-slick1 item2-slick1" style="background-image: url('https://static.nike.com/a/images/f_auto/dpr_2.0/w_1407,c_limit/a01665bf-08e7-4d5d-8fb6-841382e3f900/nike-just-do-it.jpg');">
 					<div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
@@ -331,7 +331,7 @@
 							FAST IS BACK
 						</h2>
 						<div class="wrap-btn-slide1 w-size1 " data-appear="slideInUp">
-							
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite hov1 trans-0-4">
 								Shop Now
 							</a>
@@ -363,10 +363,10 @@
 							</span>
 
 							<br>
-							
+
 
 								<div class="wrap-btn-slide1 w-size1 animated" data-appear="slideInUp">
-						
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite  trans-0-4">
 								Shop Now
 							</a>
@@ -388,10 +388,10 @@
 							</span>
 
 							<br>
-							
+
 
 								<div class="wrap-btn-slide2 w-size1 animated" data-appear="slideInUp">
-						
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2  trans-0-4" style="background-color: black; color:white;">
 								Shop Now
 							</a>
@@ -401,7 +401,7 @@
 					</div>
 				</div>
 
-			
+
 			</div>
 		</div>
 	</section>
@@ -421,14 +421,14 @@
 							<br><br><br><br><br>
 							<br><br><br><br><br>
 							<br><br><br><br><br>
-						
-							
+
+
 
 							<br>
-							
+
 
 								<div class="wrap-btn-slide1 w-size1 animated" data-appear="slideInUp">
-						
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite  trans-0-4">
 								Men's
 							</a>
@@ -448,10 +448,10 @@
 							<br><br><br><br><br>
 
 							<br>
-							
+
 
 								<div class="wrap-btn-slide1 w-size1 animated" data-appear="slideInUp">
-						
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite  trans-0-4">
 								Women's
 							</a>
@@ -471,10 +471,10 @@
 							<br><br><br><br><br>
 
 							<br>
-							
+
 
 								<div class="wrap-btn-slide1 w-size1 animated" data-appear="slideInUp">
-						
+
 							<a href="/shop/" class="flex-c-m size2 bo-rad-23 s-text2 bgwhite  trans-0-4">
 								Kids'
 							</a>
@@ -483,15 +483,15 @@
 						</div>
 					</div>
 				</div>
-			
+
 			</div>
 		</div>
 	</section>
 	<!-- ------------------Banner2  start ------------------------>
 
 
-	
-	
+
+
 
 	<!-- Shipping -->
 	<section class="shipping bgwhite p-t-62 p-b-46">
@@ -531,9 +531,6 @@
 
 
 
-	
+
 
 	{% endblock content %}
-
-
-	

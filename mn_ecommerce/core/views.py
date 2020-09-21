@@ -85,7 +85,7 @@ class PaymentView(View):
         except stripe.error.AuthenticationError as e:
             # Authentication with Stripe's API failed
             # (maybe you changed API keys recently)
-            messages.error(self.request, "Not Authentication")
+            messages.error(s/elf.request, "Not Authentication")
             return redirect("/")
 
         except stripe.error.APIConnectionError as e:
@@ -210,25 +210,25 @@ class CheckoutView(View):
             return redirect("core:order-summary")
 
 
-# def home(request):
-#     context = {
-#         'items': Item.objects.all()
-#     }
-#     return render(request, "index.html", context)
-#
-#
-# def products(request):
-#     context = {
-#         'items': Item.objects.all()
-#     }
-#     return render(request, "product-detail.html", context)
-#
-#
-# def shop(request):
-#     context = {
-#         'items': Item.objects.all()
-#     }
-#     return render(request, "shop.html", context)
+def home(request):
+    context = {
+        'items': Item.objects.all()
+    }
+    return render(request, "index.html", context)
+
+
+def products(request):
+    context = {
+        'items': Item.objects.all()
+    }
+    return render(request, "product-detail.html", context)
+
+
+def shop(request):
+    context = {
+        'items': Item.objects.all()
+    }
+    return render(request, "shop.html", context)
 
 
 @login_required
