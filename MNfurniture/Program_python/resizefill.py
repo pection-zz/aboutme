@@ -55,17 +55,10 @@ template[y_offset:y_offset+img.shape[0], x_offset:x_offset+img.shape[1]] = img
 #      cv2.FONT_HERSHEY_SIMPLEX, 
 #      1, (0, 0, 0, 255), 3) 
 cv2.imwrite(savepath,template)
-
-# cv2.wait(0)
-# if cv2.imwrite(savepath,)
 image = Image.open(savepath)  
-
 draw = ImageDraw.Draw(image)  
-
 # use a truetype font  
 font = ImageFont.truetype("/System/Library/Fonts/HelveticaNeue.ttc", 13)  
-
 draw.text((xyaxis["x_number"],xyaxis["y_number"]), "1", font=font,fill=(0,0,0,0))  
-
 image.save("/Users/pection/Programing/aboutme/MNfurniture/Bill/PretoPaid/Pretopaid2.jpg")  
 
