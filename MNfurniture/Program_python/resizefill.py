@@ -32,7 +32,7 @@ image_urls=[]
 # parser.add_argument("-wi","--width",action="store",dest="width",default=200,help="<Required>image path",required=False)
 # parser.add_argument("-hi","--height",action="store",dest="height",default=200,help="<Required>image path",required=False)
 # results = parser.parse_args()
-xyaxis={"x_value":350,"x_price":400,"x_discount":450,"x_priceafterdiscount":520 ,"x_summary":520,"x_deposit":520,"x_remain":520,"y_value":450,"y_price":450,"y_discount":450,"y_priceafterdiscount":450,"y_summary":660,"y_deposit":700,"y_remain":750}
+xyaxis={"x_name":80,"y_name":190,"x_order":510,"y_order":190,"x_delivery":510,"y_delivery":230,"x_delivery2":510,"y_delivery2":240,"x_address":80,"y_address":230,"x_value":350,"x_price":381,"x_discount":450,"x_priceafterdiscount":515 ,"x_summary":520,"x_deposit":520,"x_remain":520,"y_value":440,"y_price":440,"y_discount":440,"y_priceafterdiscount":440,"y_summary":643,"y_deposit":684,"y_remain":725}
 x_offset=100
 y_offset=350
 # imgpath = results.input
