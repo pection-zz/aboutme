@@ -23,19 +23,28 @@ Data = dict(zip(Data_template,listofvalues))
 Data_template=['PhotoPath','Name','Phone','Address','Order','Delivery','Price','Value','Discount','Deposit','Remain']
 
 imgdefault=cv2.imread(Data["PhotoPath"])
-img = resize(image=imgdefault,width=200,height=int(200))
-print(img)
+img = resize(image=imgdefault,width=200,height=200)
+
+
 template=cv2.imread("/Users/pection/Programing/aboutme/MNfurniture/Bill/Template/TemplateBill.jpg")
 template[y_offset:y_offset+img.shape[0], x_offset:x_offset+img.shape[1]] = img
 
 cv2.imwrite("/Users/pection/Programing/aboutme/MNfurniture/Bill/PretoPaid/Pretopaid.jpg",template)
 image = Image.open("/Users/pection/Programing/aboutme/MNfurniture/Bill/PretoPaid/Pretopaid.jpg")
 draw = ImageDraw.Draw(image)
-# use a truetype font
+
+for item in Data:
+    for key, value in item.iteritems():
+        try:
+            item[key] = int(value)
+        except ValueError:
+            item[key] = float(value)
+
 font = ImageFont.truetype("/System/Library/Fonts/HelveticaNeue.ttc", 13)
 draw.text((xyaxis["x_value"],xyaxis["y_value"]),Data["Value"], font=font,fill=(0,0,0,0))
 draw.text((xyaxis["x_discount"],xyaxis["y_discount"]),Data["Discount"], font=font,fill=(0,0,0,0))
 draw.text((xyaxis["x_price"],xyaxis["y_price"]),Data["Price"], font=font,fill=(0,0,0,0))
 draw.text((xyaxis["x_priceafterdiscount"],xyaxis["y_priceafterdiscount"]),Data["Price"], font=font,fill=(0,0,0,0))
 
+print(Data["Price"])
 image.save("/Users/pection/Programing/aboutme/MNfurniture/Bill/PretoPaid/Pretopaid2.jpg")
