@@ -32,6 +32,7 @@ if(len(Data["Name"]))<5:
     Data["Name"]="xxx"
 if(len(Data["Value"]))<1:
     Data["Value"]=1
+
 imgdefault=cv2.imread(Data["PhotoPath"])
 img = resize(image=imgdefault,width=200,height=200)
 
