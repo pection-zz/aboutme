@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
 import scrapy
 from scrapy.http import Request
 import csv
 import os
 from selectorlib import Extractor
-import re 
+import re
 
 class AlibabaCrawlerSpider(scrapy.Spider):
     name = 'alibaba_crawler'
@@ -29,7 +28,7 @@ class AlibabaCrawlerSpider(scrapy.Spider):
         data = self.extractor.extract(response.text,base_url=response.url)
         for product in data['products']:
             yield product
-        
+
         # Try paginating if there is data
         if data['products']:
             if '&page=' not in response.url and self.max_pages>=2:
