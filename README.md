@@ -12,7 +12,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 # Robotic Engineering Projects #
 
-## [Lens Quality Checking using Machine Learning](https://github.com/pection/aboutme/tree/master/Lendetection-FinalProject) ##
+## [Lens Quality Checking using Machine Learning](https://github.com/pection/aboutme/tree/master/Len-Quality-Checking-Using-Machine-Learning) ##
 ### First place in the world in Manufacturing ###
 * Published by Bachelor of Engineering Program in Robotics Engineeing
 * This research project is about checking the quality of the lens with machine learning methods and Machine VISION
@@ -23,18 +23,18 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 <!-- ![alt text][IM_default] -->
 ### before polarization ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/Default_resize.png" width ="300" height="300">
+<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/Default_resize.png" width ="300" height="300">
 
 ### after polarization ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG" width ="300" height="300">
+<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/BadLine_12.JPG" width ="300" height="300">
 zoom
-<img src ="https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg" width ="300" height="300">
+<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/BadLine_12_Example.jpg" width ="300" height="300">
 <!-- ![alt text][IM_afterpola]![alt text][IM_afterpola2]
 
 <!-- [IM_default]:   -->
-<!-- [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12.JPG "Image After polarization"
-[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Lendetection-FinalProject/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom" -->
+<!-- [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/BadLine_12.JPG "Image After polarization"
+[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom" -->
 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
 * Simulate Robot looklike a nintendo v & Add more function (Replay,No bump)from mbed os with Nucleo, MCU , LCD , Omni Wheel ,lipo Battery, Ultrasonic, Bluetooth, Eeprom, L298
