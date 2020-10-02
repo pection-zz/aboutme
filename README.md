@@ -30,6 +30,8 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 <img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/BadLine_12.JPG" width ="300" height="300">
 zoom
 <img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/BadLine_12_Example.jpg" width ="300" height="300">
+<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/Screen%20Shot%202563-10-02%20at%2016.32.13.png" width ="300" height="300">
+<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/Screen%20Shot%202563-10-02%20at%2016.32.02.png" width ="300" height="300">
 <!-- ![alt text][IM_afterpola]![alt text][IM_afterpola2]
 
 <!-- [IM_default]:   -->
