@@ -47,7 +47,7 @@ Trailer Link in Gif
 
 [![ํYoutube in Gif](https://github.com/pection/aboutme/blob/master/static/Images/mebedos.gif)](https://www.youtube.com/watch?v=_qSjed_wGlM&fbclid=IwAR3CLslPGKYmqIJvhLkzrPJeZpcstmO1yqCWnueQMRvDhv4kAnUiZUEw8Vg)
 
-## [Internship JapanProject](https://github.com/pection/aboutme/tree/master//tree/master/InternshipProject) ##
+## [Convolutions Hand 3D & Find joint from Thermal Camera with Image processing](https://github.com/pection/FindJointwithImageprocessing.git) ##
 * Find joint in Hand with thermal camera and Image processing & Convolutions Hand 3D
 <!-- ![alt text][show1] -->
 
@@ -91,9 +91,9 @@ Trailer Link in Gif
 ## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
 
-![alt text][SegmentMAchine]
+![alt text][SegmentMachine]
 
-[SegmentMAchine]: https://github.com/pection/aboutme/blob/master/ImageProcessingDigitSegment/Segment.gif "Machine Learning with python"
+[SegmentMachine]: https://github.com/pection/aboutme/blob/master/ImageProcessingDigitSegment/Segment.gif "Machine Learning with python"
 
 ## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi

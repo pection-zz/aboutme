@@ -19,3 +19,18 @@
 [submodule "MachineLearning-Practice"]
 	path = MachineLearning-Practice
 	url = https://github.com/pection/MachineLearning-Practice
+[submodule "ParameterEstimation_matlab"]
+	path = ParameterEstimation_matlab
+	url = https://github.com/pection/ParameterEstimation_matlab
+[submodule "Scraper-website"]
+	path = Scraper-website
+	url = https://github.com/pection/Scraper-website
+[submodule "Humanoid"]
+	path = Humanoid
+	url = https://github.com/pection/Humanoid
+[submodule "Interactionstudent"]
+	path = Interactionstudent
+	url = https://github.com/pection/Interactionstudent
+[submodule "createresume"]
+	path = createresume
+	url = https://github.com/pection/createresume
