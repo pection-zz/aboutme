@@ -20,23 +20,23 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 * This method can be applied to check the quality of lens in manufacturing automation in the future
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
 
-<!-- ![alt text][IM_default] -->
 ### before polarization ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/Default_resize.png" width ="300" height="300">
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Default_resize.png" width ="300" height="300">
 
 ### after polarization ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/BadLine_12.JPG" width ="300" height="300">
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/BadLine_12.JPG" width ="300" height="300">
 zoom
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/BadLine_12_Example.jpg" width ="300" height="300">
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/Screen%20Shot%202563-10-02%20at%2016.32.13.png" width ="300" height="300">
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/Screen%20Shot%202563-10-02%20at%2016.32.02.png" width ="300" height="300">
-<!-- ![alt text][IM_afterpola]![alt text][IM_afterpola2]
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/BadLine_12_Example.jpg" width ="300" height="300">
 
-<!-- [IM_default]:   -->
-<!-- [IM_afterpola]: https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/BadLine_12.JPG "Image After polarization"
-[IM_afterpola2]: https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/BadLine_12_Example.jpg&s=200 "Image After polarization Zoom" -->
+### Checking Quality from MachineLearning ###
+
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Bad1.png" width ="300" height="300">
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Good1.png" width ="300" height="300">
+Graph
+<img src "https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Latest.png" width="300" height="300">
+
 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
 * Simulate Robot looklike a nintendo v & Add more function (Replay,No bump)from mbed os with Nucleo, MCU , LCD , Omni Wheel ,lipo Battery, Ultrasonic, Bluetooth, Eeprom, L298
