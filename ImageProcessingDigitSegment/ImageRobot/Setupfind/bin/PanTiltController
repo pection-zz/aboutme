@@ -1,6 +1,0 @@
-#!/usr/bin/env python
-
-import spinalCord.PanTiltController
-
-if __name__ == "__main__":
-	spinalCord.PanTiltController.main()

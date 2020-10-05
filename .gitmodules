@@ -34,3 +34,12 @@
 [submodule "createresume"]
 	path = createresume
 	url = https://github.com/pection/createresume
+[submodule "Image_recogition"]
+	path = Image_recogition
+	url = https://github.com/pection/Image_recogition
+[submodule "Allproject"]
+	path = Allproject
+	url = https://github.com/pection/Allproject
+[submodule "ImageProcessingDigitSegment"]
+	path = ImageProcessingDigitSegment
+	url = https://github.com/pection/ImageProcessingDigitSegment
