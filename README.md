@@ -12,7 +12,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 
 # Robotic Engineering Projects #
 
-## [Lens Quality Checking using Machine Learning](https://github.com/pection/aboutme/tree/master/Len-Quality-Checking-Using-Machine-Learning) ##
+## [Lens Quality Checking using Machine Learning](https://github.com/pection/Len-Quality-Checking-Using-Machine-Learning) ##
 ### First place in the world in Manufacturing ###
 * Published by Bachelor of Engineering Program in Robotics Engineeing
 * This research project is about checking the quality of the lens with machine learning methods and Machine VISION
@@ -54,31 +54,31 @@ Trailer Link in Gif
 <!-- ![alt text][show2]![alt text][show3] -->
 ### Convolutions Hand 3D ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png" width ="500" height="500">
+<img src ="https://github.com/pection/FindJointwithImageprocessing/blob/master/trackHand/Result/show1.png" width ="500" height="500">
 
 ### Find joint from Thermal Camera with Image processing ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show2.png" width ="500" height="500">
-<img src ="https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png" width ="500" height="500">
-<!-- [show1]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show1.png "Convolutions hand"
-[show2]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show2.png "Hand-left hand"
-[show3]: https://github.com/pection/aboutme/blob/master/InternshipProject/trackHand/Result/show3.png "Hand-right hand" -->
+<img src ="https://github.com/pection/FindJointwithImageprocessing/blob/master/trackHand/Result/show2.png" width ="500" height="500">
+<img src ="https://github.com/pection/FindJointwithImageprocessing/blob/master/trackHand/Result/show3.png" width ="500" height="500">
+<!-- [show1]: https://github.com/pection/aboutme/blob/master/FindJointwithImageprocessing/trackHand/Result/show1.png "Convolutions hand"
+[show2]: https://github.com/pection/aboutme/blob/master/FindJointwithImageprocessing/trackHand/Result/show2.png "Hand-left hand"
+[show3]: https://github.com/pection/aboutme/blob/master/FindJointwithImageprocessing/trackHand/Result/show3.png "Hand-right hand" -->
 
-## [XY plotter](https://github.com/pection/aboutme/tree/master//tree/master/XY-PlotterProject) ##
+## [XY plotter](https://github.com/pection/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
 
-## [Interaction for student and teacher from python](https://github.com/pection/aboutme/tree/master/Interactionstudent) ##
+## [Interaction for student and teacher from python](https://github.com/pection/Interactionstudent) ##
 * Create application in computer from python and  collect the data base of university students’ usage on gui page
 
-## [HumanoidRobot](https://github.com/pection/aboutme/tree/master/Humanoid_Robot) ##
+## [HumanoidRobot](https://github.com/pection/Humanoid) ##
 * Humanoid Robot for humanoid league in low-level
 
 <!-- ![][Certi_default]
 
 [Certi_default]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg "3rd Robocup" -->
-<img src ="https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg" width ="500" height="500">
+<img src ="https://github.com/pection/Humanoid/blob/master/Humanoid_Robot/Certi.jpeg" width ="500" height="500">
 
-## [HumanoidCode](https://github.com/pection/aboutme/tree/master/Humanoid_Code) ##
+## [HumanoidCode](https://github.com/pection/Humanoid_Code) ##
 * Humanoid Robot for before upgrade to humanoid league in low-level
 * Create UI to Setup position Humanoid robot with pyqi
 
@@ -86,50 +86,50 @@ Trailer Link in Gif
 
 ![alt text][Qualigif]
 
-[Qualigif]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Quali.gif "Robocup2019 Qualification"
+[Qualigif]:https://github.com/pection/Humanoid/blob/master/Humanoid_Robot/Quali.gif "Robocup2019 Qualification"
 
-## [ImageProcessingDigitSegment](https://github.com/pection/aboutme/tree/master/ImageProcessingDigitSegment) ##
+## [ImageProcessingDigitSegment](https://github.com/pection/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
 
 ![alt text][SegmentMachine]
 
-[SegmentMachine]: https://github.com/pection/aboutme/blob/master/ImageProcessingDigitSegment/Segment.gif "Machine Learning with python"
+[SegmentMachine]:https://github.com/pection/ImageProcessingDigitSegment/blob/master/Segment.gif "Machine Learning with python"
 
-## [Lane detection with Rasberrypi](https://github.com/pection/aboutme/tree/master/Lanedetection_matlab_Amas2016-2017) ##
+## [Lane detection with Rasberrypi](https://github.com/pection/Lanedetection_matlab_Amas2016-2017) ##
 * Use lane detection with matlab programing to compute lane detection in Rasberrypi
 
 ### Example program from test in other video with Fast movement ###
 
 ![alt text][AMAS2017gif]
 
-[AMAS2017gif]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/video.gif
+[AMAS2017gif]: https://github.com/pection/Lanedetection_matlab_Amas2016-2017/blob/master/video.gif
  "AMAS2017trackline"
-<img src ="https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/IMG_0287.jpeg" width ="500" height="500">
+<img src ="https://github.com/pection/Lanedetection_matlab_Amas2016-2017/blob/master/IMG_0287.jpeg" width ="500" height="500">
 <!-- ![alt text][AMAS2017img]
 
 [AMAS2017img]: https://github.com/pection/aboutme/blob/master/Lanedetection_matlab_Amas2016-2017/IMG_0287.jpeg "AMAS Team" -->
 
-## [Matlab in Robotic](https://github.com/pection/aboutme/tree/master/MatlabinRobotic) ##
+## [Matlab in Robotic](https://github.com/pection/MatlabinRobotic) ##
 * Learning How to use Matlab apply in Robotic
 
-## [Create Ecommerce website](https://github.com/pection/aboutme/tree/master/mn_ecommerce) ##
+## [Create Ecommerce website](https://github.com/pection/mn_ecommerce) ##
 * Create Ecommerce website with python and django
 
-## [SimulateRobotpickingGripper](https://github.com/pection/aboutme/tree/master/SimulateRobotpickingGripper) ##
+## [SimulateRobotpickingGripper](https://github.com/pection/SimulateRobotpickingGripper) ##
 * Use simulate program for see Robot to picking a Gripper
 
-## [Createresume](https://github.com/pection/aboutme/tree/master/createresume) ##
+## [Createresume](https://github.com/pection/createresume) ##
 * Create your Resume with QR code from python with matplotlib
 
 ![alt text][Resume_png]
 
-[Resume_png]:https://github.com/pection/aboutme/blob/master/createresume/resumefrompython_png.png "Create from python"
+[Resume_png]:https://github.com/pection/createresume/blob/master/static/Image/resumefrompython_png.png "Create from python"
 
 
 ## [Machine Learning & OCR tesseract](https://github.com/pection/aboutme/) ##
 * Define bank, coin and balm by using python and machine learning. Moreover, this project can also reading THAI language by using OCR
 
-## [Machine Learning Class](https://github.com/pection/aboutme/tree/master/MachineLearning/) ##
+## [Machine Learning Class](https://github.com/pection/MachineLearning/) ##
 * House Price Prediction
 * Text Classification and Cluster
 * Object Recognition
