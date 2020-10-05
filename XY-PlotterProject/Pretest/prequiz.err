@@ -1,4 +1,0 @@
->>> Warning 202 "prequiz.c" Line 22(5,7): Variable never used:   xx
-      Memory usage:   ROM=3%      RAM=2% - 2%
-      0 Errors,  1 Warnings.
-Build Successful.

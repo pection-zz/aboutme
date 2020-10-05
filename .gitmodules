@@ -4,3 +4,18 @@
 [submodule "Lenquality-MachineLearning"]
 	path = Lenquality-MachineLearning
 	url = https://github.com/pection/Lenquality-MachineLearning
+[submodule "XY-Plotter"]
+	path = XY-Plotter
+	url = https://github.com/pection/XY-Plotter
+[submodule "Lanedetection_matlab_Amas2016-2017"]
+	path = Lanedetection_matlab_Amas2016-2017
+	url = https://github.com/pection/Lanedetection_matlab_Amas2016-2017
+[submodule "MatlabinRobotic"]
+	path = MatlabinRobotic
+	url = https://github.com/pection/MatlabinRobotic
+[submodule "MNfurniture"]
+	path = MNfurniture
+	url = https://github.com/pection/MNfurniture
+[submodule "MachineLearning-Practice"]
+	path = MachineLearning-Practice
+	url = https://github.com/pection/MachineLearning-Practice

@@ -1,6 +1,0 @@
->>> Warning 216 "C:\Embed\FinalProjec\$linker.c" Line 4(8,14): Interrupts disabled during call to prevent re-entrancy:  (malloc)
->>> Warning 216 "C:\Embed\FinalProjec\$linker.c" Line 4(8,14): Interrupts disabled during call to prevent re-entrancy:  (@ITOF)
->>> Warning 216 "C:\Embed\FinalProjec\$linker.c" Line 4(8,14): Interrupts disabled during call to prevent re-entrancy:  (free)
-      Memory usage:   ROM=19%      RAM=8% - 10%
-      0 Errors,  3 Warnings.
-Build Successful.

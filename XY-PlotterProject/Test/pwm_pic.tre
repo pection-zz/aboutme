@@ -1,7 +1,0 @@
-ÀÄpwm_pic
-   ÃÄmain  0/128  Ram=0
-   ³  ÃÄ@cinit1  (Inline)  Ram=0
-   ³  ÀÄHardwareInit  0/90  Ram=3
-   ÃÄTime1  0/34  Ram=0
-   ÃÄDuty_pwm1  0/46  Ram=0
-   ÀÄDuty_pwm2  0/52  Ram=0

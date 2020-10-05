@@ -1,1 +1,0 @@
-   Houghline_real_fast_2.c  rt_logging.c 
