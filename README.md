@@ -34,8 +34,10 @@ zoom
 
 <img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Bad1.png" width ="300" height="300">
 <img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Good1.png" width ="300" height="300">
+
 Graph
-<img src "https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Latest.png" width="300" height="300">
+
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Latest.png" width ="300" height="300">
 
 
 ## [Programing robot which run by our authorize which same as nintendo v with mbed os](https://github.com/pection/aboutme/) ##
