@@ -1,3 +1,6 @@
 [submodule "mn-ecommerce"]
 	path = mn-ecommerce
 	url = https://github.com/pection/mn-ecommerce
+[submodule "Lenquality-MachineLearning"]
+	path = Lenquality-MachineLearning
+	url = https://github.com/pection/Lenquality-MachineLearning
