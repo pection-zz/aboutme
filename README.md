@@ -18,7 +18,9 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 * This research project is about checking the quality of the lens with machine learning methods and Machine VISION
 * The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99
 * This method can be applied to check the quality of lens in manufacturing automation in the future
-Keywords : checking the quality of the lens / polarization / image processing / machine learning
+* Keywords : checking the quality of the lens / polarization / image processing / machine learning
+* Using the UI- 3240LE-NIR camera to capture and analyze an image with image processing and machine learning techniques to decide on lens quality in the computer
+* The result of experiments show that the lens quality checking using Machine learning can be achieved a performance testing with 99 
 
 ### before polarization ###
 
@@ -49,6 +51,7 @@ Trailer Link in Gif
 
 ## [Convolutions Hand 3D & Find joint from Thermal Camera with Image processing](https://github.com/pection/FindJointwithImageprocessing.git) ##
 * Find joint in Hand with thermal camera and Image processing & Convolutions Hand 3D
+
 <!-- ![alt text][show1] -->
 
 <!-- ![alt text][show2]![alt text][show3] -->
@@ -57,6 +60,8 @@ Trailer Link in Gif
 <img src ="https://github.com/pection/FindJointwithImageprocessing/blob/master/trackHand/Result/show1.png" width ="500" height="500">
 
 ### Find joint from Thermal Camera with Image processing ###
+* Make program to predict Hand joint from ThermalCamera with Image processing in Python 
+* How to use this program with Doctoral degree in Robotic lab
 
 <img src ="https://github.com/pection/FindJointwithImageprocessing/blob/master/trackHand/Result/show2.png" width ="500" height="500">
 <img src ="https://github.com/pection/FindJointwithImageprocessing/blob/master/trackHand/Result/show3.png" width ="500" height="500">
@@ -66,13 +71,16 @@ Trailer Link in Gif
 
 ## [XY plotter](https://github.com/pection/XY-PlotterProject) ##
 * XY Plotter Project for control XY plotter with pid control and combine a Image Processing to Draw Picture
+* Combine a image processing to Draw Picture in 24FJ48GA002 controller
 
 ## [Interaction for student and teacher from python](https://github.com/pection/Interactionstudent) ##
 * Create application in computer from python and  collect the data base of university students’ usage on gui page
 
-## [HumanoidRobot](https://github.com/pection/Humanoid) ##
+## [Humanoid Leaguge & 3rd Internation Award](https://github.com/pection/Humanoid) ##
 * Humanoid Robot for humanoid league in low-level
-
+* Get 3rd prize RoboCupSoccer:Humanoid Leaguges(Kid Size) in Robocup Asia-Pacific RCAP 2017
+* Learning in Humanoid-lab to 4 years
+* Self-Learning Skills
 <!-- ![][Certi_default]
 
 [Certi_default]: https://github.com/pection/aboutme/blob/master/Humanoid_Robot/Certi.jpeg "3rd Robocup" -->
@@ -90,7 +98,7 @@ Trailer Link in Gif
 
 ## [ImageProcessingDigitSegment](https://github.com/pection/ImageProcessingDigitSegment) ##
 * Use machine learning to Segment Digit for predict Digit for get input with another FONT from training
-
+* Using machine learning to predict Digit with other font in realtime after that control a camera for predict position x-y-z axis to move
 ![alt text][SegmentMachine]
 
 [SegmentMachine]:https://github.com/pection/ImageProcessingDigitSegment/blob/master/Segment.gif "Machine Learning with python"
