@@ -15,6 +15,7 @@ Welcome to my online GitHub repository. Below are some of my recent personal Rob
 ## [Lens Quality Checking using Machine Learning](https://github.com/pection/Len-Quality-Checking-Using-Machine-Learning) ##
 ### First place in the world in Manufacturing ###
 * Published by Bachelor of Engineering Program in Robotics Engineeing
+* RePublished in 2020 2nd International Conference on Management Science and Industrial Engineering MSIE 2020. Association for Computing 
 * This research project is about checking the quality of the lens with machine learning methods and Machine VISION
 * The result of experiments show that the lens quality checking using machine learning can be achieved a performance testing with 99
 * This method can be applied to check the quality of lens in manufacturing automation in the future
@@ -122,9 +123,6 @@ Trailer Link in Gif
 
 ## [Create Ecommerce website](https://github.com/pection/mn_ecommerce) ##
 * Create Ecommerce website with python and django
-
-## [SimulateRobotpickingGripper](https://github.com/pection/SimulateRobotpickingGripper) ##
-* Use simulate program for see Robot to picking a Gripper
 
 ## [Createresume](https://github.com/pection/createresume) ##
 * Create your Resume with QR code from python with matplotlib
